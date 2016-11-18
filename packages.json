@@ -179,7 +179,12 @@
       "windowing",
       "game"
     ],
-    "description": "Nim bindings for GLFW library.",
+    "description": "Nim 
+    
+    
+    
+    
+    s for GLFW library.",
     "license": "MIT",
     "web": "https://github.com/rafaelvasco/nimrod-glfw"
   },
@@ -5438,5 +5443,18 @@
     "description": "MaxMind GeoIP library",
     "license": "LGPLv2.1",
     "web": "https://github.com/FedericoCeratto/nim-mmgeoip"
+  },
+  {
+    "name": "libjwt",
+    "url": "https://github.com/nimscale/nim-libjwt",
+    "method": "git",
+    "tags": [
+      "jwt",
+      "libjwt"
+    ],
+    "description": "Bindings for libjwt",
+    "license": "LGPLv2.1",
+    "web": "https://github.com/nimscale/nim-libjwt"
   }
+
 ]
